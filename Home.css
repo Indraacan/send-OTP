@@ -1,0 +1,15 @@
+body {
+    background-image: url(./img/background.jpg);
+}
+
+
+.container{
+    margin-top: 18rem !important;
+}
+
+.jumbotron {
+    width: 40rem;
+    border: 1px solid black;
+    padding : 1rem 2rem !important;
+    border-radius : 1.3rem !important;
+}
